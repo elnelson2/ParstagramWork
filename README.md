@@ -17,16 +17,16 @@ The following **bonus** features are implemented:
 
 Walkthrough of launch screen and loggin in and new user sign up:
 
-<img src='https://media.giphy.com/media/CmYEhhpz04VP5Wio84/giphy.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/CmYEhhpz04VP5Wio84/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
 
-<img src='https://media.giphy.com/media/XbVVAqaAwknmxN3Nh5/giphy.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/XbVVAqaAwknmxN3Nh5/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
 
 Walkthrough of new post part 1 and 2:
 
-<img src='https://media.giphy.com/media/5ZwRKdNIyo70ZyftWI/giphy.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/5ZwRKdNIyo70ZyftWI/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
 
-<img src='https://media.giphy.com/media/HaBmUDJ6l42aAPtaeY/giphy.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/HaBmUDJ6l42aAPtaeY/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
 
 Walkthrough of showing last 20 posts and bonuses:
 
-<img src='https://media.giphy.com/media/YSe0M26OF0yQo33kv7/giphy.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/YSe0M26OF0yQo33kv7/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
