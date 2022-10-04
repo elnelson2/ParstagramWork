@@ -29,4 +29,4 @@ Walkthrough of new post part 1 and 2:
 
 Walkthrough of showing last 20 posts and bonuses:
 
-<img src='https://media.giphy.com/media/YSe0M26OF0yQo33kv7/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/6eS2rrcvAWWAcVznPX/giphy.gif' title='Video Walkthrough' width='175' alt='Video Walkthrough' />
