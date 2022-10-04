@@ -1,6 +1,9 @@
 ## Parstagram - Part I
+
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+
 Time spent: **8** hours spent in total
+
 ## User Stories
 The following **required** functionality is completed:
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
