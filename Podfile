@@ -10,5 +10,6 @@ target 'Parstagram' do
   pod 'Parse'
   pod 'AlamofireImage'
   pod 'MBProgressHUD', '~> 1.2.0'
+  pod 'MessageInputBar'
 
 end
