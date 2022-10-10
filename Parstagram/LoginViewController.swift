@@ -49,7 +49,6 @@ class LoginViewController: UIViewController {
         gradientLayer.frame = self.view.bounds
         gradientLayer.colors = [CGColor(colorSpace: CGColorSpaceCreateDeviceRGB(), components: [235/255,54/255,174/255,0.85]) as Any, CGColor(colorSpace: CGColorSpaceCreateDeviceRGB(), components: [255/255,187/255,110/255,1]) as Any]
 
-        
         self.view.layer.insertSublayer(gradientLayer, at: 0)
         // Do any additional setup after loading the view.
     }

@@ -18,8 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                     $0.applicationId = "iNcHFHhpnbdTkVWDFcViNDgQu05s29IoSNPRUrdU" // <- UPDATE
                     $0.clientKey = "5gZT1d36QiFMlbz4W70TPlHoLoeke5cL8zWDakQT" // <- UPDATE
                     $0.server = "https://parseapi.back4app.com"
-            }
-            Parse.initialize(with: parseConfig)
+        }
+        Parse.initialize(with: parseConfig)
         
         return true
     }
