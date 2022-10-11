@@ -20,9 +20,17 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Walkthrough of logged in across restarts:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/OrV0RZT5ZsOwqS6BcA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Walkthrough user logging out:
+
+<img src='https://media.giphy.com/media/280eeLXkrTfcmZRxiA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Walkthrough of user viewing comments and adding comments:
+
+<img src='https://media.giphy.com/media/Asg47BmpkCPXFY4RFn/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
